@@ -10,7 +10,7 @@ div.lef {
     display:none;
     color:Blue;
     font-weight:bold;
-    font-size:34px;
+    font-size:66px;
 }
 div.centr {
     
@@ -21,7 +21,7 @@ div.centr {
     display:none;
     color:Blue;
     font-weight:bold;
-    font-size:32px;
+    font-size:66px;
 }
 div.rig {
     
@@ -31,27 +31,16 @@ div.rig {
     display:none;
     color:Blue;
     font-weight:bold;
-    font-size:34px;
+    font-size:66px;
 }
 div.middle {
     
     top:50%;
        position:fixed;
-    left:610px;
+    left:600px;
     text-align:center;
     font-weight:bold;
-    font-size:38px;
+    font-size:66px;
+    color:Blue;
     display:none;
-}
-a:link {
-    color: Blue;
-}
-a:visited {
-    color: #00FF00;
-}
-a:hover {
-    color: Black;
-}
-a:active {
-    color: #0000FF;
 }
