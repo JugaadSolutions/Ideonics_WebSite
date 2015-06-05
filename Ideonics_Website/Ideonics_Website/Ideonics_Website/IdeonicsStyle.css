@@ -1,0 +1,47 @@
+﻿/*div.wrap{
+      margin:auto;
+    display:none;
+
+}*/
+div.lef {
+    top:10%;
+     float:left;
+    position:absolute;
+    display:none;
+    color:black;
+    font-weight:bold;
+    font-size:150px;
+}
+div.centr {
+    
+    top:30%;
+     text-align:center;
+    position:fixed;
+    left:670px;
+    display:none;
+    color:black;
+    font-weight:bold;
+    font-size:100px;
+}
+div.rig {
+    
+    top:40%;
+       float:right;
+    position:absolute;
+    display:none;
+    color:black;
+    font-weight:bold;
+    font-size:150px;
+}
+div.middle {
+    
+    top:20%;
+       position:fixed;
+    left:400px;
+    text-align:center;
+    font-weight:bold;
+    font-size:150px;
+    color:black;
+    cursor:pointer;
+    display:none;
+}

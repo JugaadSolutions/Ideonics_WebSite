@@ -1,0 +1,6 @@
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\bin\Ideonics_Website.dll.config
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\bin\Ideonics_Website.dll
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\bin\Ideonics_Website.pdb
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\obj\Debug\Ideonics_Website.dll
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\obj\Debug\Ideonics_Website.pdb
+G:\avinash\Ideonics_WebSite\Ideonics_Website\Ideonics_Website\obj\Debug\Ideonics_Website.csprojResolveAssemblyReference.cache
