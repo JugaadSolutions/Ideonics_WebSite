@@ -1,0 +1,46 @@
+﻿/*div.wrap{
+      margin:auto;
+    display:none;
+
+}*/
+div.lef {
+    top:40%;
+     float:left;
+    position:absolute;
+    display:none;
+    color:Blue;
+    font-weight:bold;
+    font-size:66px;
+}
+div.centr {
+    
+    top:50%;
+     text-align:center;
+    position:fixed;
+    left:670px;
+    display:none;
+    color:Blue;
+    font-weight:bold;
+    font-size:66px;
+}
+div.rig {
+    
+    top:60%;
+       float:right;
+    position:absolute;
+    display:none;
+    color:Blue;
+    font-weight:bold;
+    font-size:66px;
+}
+div.middle {
+    
+    top:50%;
+       position:fixed;
+    left:600px;
+    text-align:center;
+    font-weight:bold;
+    font-size:66px;
+    color:Blue;
+    display:none;
+}
